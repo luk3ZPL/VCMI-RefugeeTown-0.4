@@ -1,1 +1,1 @@
-# VCMI_mods
+# VCMI RefugeeTown
